@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\Sistema de Gestión de Estudiantes\Sistema de Gestión de Estudiantes\obj\Debug\Sistema de Gestión de Estudiantes.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\Sistema de Gestión de Estudiantes\Sistema de Gestión de Estudiantes\obj\Debug\Sistema de Gestión de Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\Sistema de Gestión de Estudiantes\Sistema de Gestión de Estudiantes\bin\Debug\Sistema de Gestión de Estudiantes.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\Sistema de Gestión de Estudiantes\Sistema de Gestión de Estudiantes\bin\Debug\Sistema de Gestión de Estudiantes.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\Sistema de Gestión de Estudiantes\Sistema de Gestión de Estudiantes\bin\Debug\Sistema de Gestión de Estudiantes.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\Sistema de Gestión de Estudiantes\Sistema de Gestión de Estudiantes\obj\Debug\Sistema de Gestión de Estudiantes.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\Sistema de Gestión de Estudiantes\Sistema de Gestión de Estudiantes\obj\Debug\Sistema de Gestión de Estudiantes.pdb
